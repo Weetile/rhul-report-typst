@@ -1,0 +1,7 @@
+# https://typst.app/docs/reference/model/bibliography/
+
+example-source:
+  type: Web
+  author: "Bob"
+  title: Example web source
+  url: https://example.org/

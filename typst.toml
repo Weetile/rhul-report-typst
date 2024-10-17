@@ -1,0 +1,15 @@
+[package]
+name = "rhul-report-template"
+version = "0.1.0"
+entrypoint = "lib.typ"
+authors = ["Otto Helen-Goldring"]
+license = "MIT"
+description = "Template for reports at the University of Agder"
+repository = "https://github.com/Weetile/rhul-report-template"
+keywords = ["rhul", "University of Royal Holloway", "Royal Holloway"]
+categories = ["report"]
+
+[template]
+path = "template"
+entrypoint = "main.typ"
+thumbnail = "thumbnail.png"
