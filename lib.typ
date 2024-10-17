@@ -16,7 +16,7 @@
   body 
 ) = {
   set document(title: [#title - #group_name], author: author)
-  set text(font: "Fira Sans")
+  set text(font: ("Fira Sans", "Helvetica", "Arial", "Roboto", "SF Pro Display", "Segoe UI"))
   set par(justify: true)
   show link: underline
 
